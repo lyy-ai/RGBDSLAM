@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -Wno-deprecated    CMakeFiles/main.dir/main.cpp.o  -o ../../bin/main  -L/home/lyy/00SLAM/RGBDSLAM/lib -rdynamic 
